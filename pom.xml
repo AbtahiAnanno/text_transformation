@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.akib_ananno</groupId>
 	<artifactId>text-transformer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>text-transformer</name>
 	<description>A RESTful API for text transformation </description>
 	<url/>
